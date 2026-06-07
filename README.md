@@ -1,6 +1,4 @@
-# ⌚ CHRONOS — Luxury Watch E-Commerce Product Page
-
-A visually stunning, fully interactive e-commerce product page for a premium watch brand. Built with vanilla HTML, CSS, and JavaScript — no frameworks, no dependencies.
+# ⌚ CHRONOS - Luxury Watch E-Commerce Product Page
 
 🔗 **Live Demo:** [mohamedibrahim26.github.io/chronos-ecommerce](https://mohamedibrahim26.github.io/chronos-ecommerce)
 
@@ -53,8 +51,6 @@ A visually stunning, fully interactive e-commerce product page for a premium wat
 | Storage    | Web localStorage API              |
 | Hosting    | GitHub Pages                      |
 
-> No frameworks. No libraries. No build tools. Pure fundamentals.
-
 ---
 
 ## 📁 Project Structure
@@ -65,21 +61,6 @@ CHRONOS-Ecommerce/
 ├── styles.css      # All styling, animations & responsive design
 └── script.js       # Cart logic, interactions & DOM manipulation
 ```
-
----
-
-## 🚀 Getting Started
-
-```bash
-# Clone the repository
-git clone https://github.com/mohamedibrahim26/chronos-ecommerce.git
-
-# Open in browser
-cd chronos-ecommerce
-open index.html
-```
-
-No npm install. No build step. Just open and run.
 
 ---
 
